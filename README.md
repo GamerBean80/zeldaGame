@@ -5,4 +5,4 @@ Progress on a throwback Zelda clone with Pygame. Move with arrow keys, transform
 
 > $ python3 main.py
 
-
+[![Run on Repl.it](https://repl.it/badge/github/GamerBean80/zeldaGame)](https://repl.it/github/GamerBean80/zeldaGame)
